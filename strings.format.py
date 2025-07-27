@@ -29,9 +29,7 @@ soyisim = "Kucuk"
 yas = 23 
 meslek = "Bilgisayar Muhendisi"
 
-print(f"Benim adım {isim} {soyisim} yasim {yas} ve meslegim {meslek}")
+print(f"Benim adim {isim} {soyisim} yasim {yas} ve meslegim {meslek}")
 
-cumle = f"Benim adım {isim} {soyisim}, yaşım {yas} ve mesleğim {meslek}"
+cumle = f"Benim adim {isim} {soyisim}, yaşım {yas} ve mesleğim {meslek}"
 print(cumle[::-1])
-
-
