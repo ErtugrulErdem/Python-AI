@@ -24,12 +24,12 @@
 # isim , soyisim , yas , meslek = "Ertugrul" , "Kucuk" , 23 "Bilgisayar Muhendisi"
 #Benim adım Ertugrul Kucum yasim 23 ve meslegim Bilgisayar Muhendisi yazdır , tersini de yazdır
 
-isim = "Ertugrul"
-soyisim = "Kucuk"
-yas = 23 
-meslek = "Bilgisayar Muhendisi"
+# isim = "Ertugrul"
+# soyisim = "Kucuk"
+# yas = 23 
+# meslek = "Bilgisayar Muhendisi"
 
-print(f"Benim adim {isim} {soyisim} yasim {yas} ve meslegim {meslek}")
+# print(f"Benim adim {isim} {soyisim} yasim {yas} ve meslegim {meslek}")
 
-cumle = f"Benim adim {isim} {soyisim}, yaşım {yas} ve mesleğim {meslek}"
-print(cumle[::-1])
+# cumle = f"Benim adim {isim} {soyisim}, yaşım {yas} ve mesleğim {meslek}"
+# print(cumle[::-1])
