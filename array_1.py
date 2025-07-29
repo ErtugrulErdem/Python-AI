@@ -34,34 +34,36 @@
 # count() = elemandan kac adet var sorgusu
 # clear() = elemani silme
 
-sayilar = [1 , 2 , 3, 4 , 5]
-sonuc =len(sayilar)
+# sayilar = [1 , 2 , 3, 4 , 5]
+# sonuc =len(sayilar)
 
-sonuc = max(sayilar)
-print(sonuc)
+# sonuc = max(sayilar)
+# print(sonuc)
 
-sonuc = min(sayilar)
-print(sonuc)
+# sonuc = min(sayilar)
+# print(sonuc)
 
-sayilar.append(6)
-print(sayilar)
+# sayilar.append(6)
+# print(sayilar)
 
-sayilar.insert(-1, 7)
-print(sayilar)
+# sayilar.insert(-1, 7)
+# print(sayilar)
 
-sayilar.pop()
-print(sayilar)
+# sayilar.pop()
+# print(sayilar)
 
-sayilar.remove(3)
-print(sayilar)
+# sayilar.remove(3)
+# print(sayilar)
 
-sayilar.reverse()
-print(sayilar)
+# sayilar.reverse()
+# print(sayilar)
 
-sonuc = sayilar.count(3)
-print(sonuc)
+# sonuc = sayilar.count(3)
+# print(sonuc)
 
-sayilar.clear()
-print(sayilar)
+# sayilar.clear()
+# print(sayilar)
+
+
 
 
