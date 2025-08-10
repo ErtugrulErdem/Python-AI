@@ -32,12 +32,12 @@
 
 #### Kullanıcıdan 5 sayı al listenin içine at ve ekranda listeyi sıralı şekilde yazdır
 
-list = []
+# list = []
 
-x = 0
-while x < 5:
-    sayi = int(input("bir sayi giriniz: "))
-    list.append(sayi)
-    x += 1
-list.sort()
-print(list)
+# x = 0
+# while x < 5:
+#     sayi = int(input("bir sayi giriniz: "))
+#     list.append(sayi)
+#     x += 1
+# list.sort()
+# print(list)

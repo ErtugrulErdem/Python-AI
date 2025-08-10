@@ -34,18 +34,20 @@
 
 # Kullanicidan isim , boy ve kilo bilgilerini alip kilo indekslerini hesaplayiniz
 
-isim = input("İsminizi giriniz : ")
-boy = float(input("Boyunu giriniz : "))
-kilo = float(input("Kilonuzu giriniz : "))
+# isim = input("İsminizi giriniz : ")
+# boy = float(input("Boyunu giriniz : "))
+# kilo = float(input("Kilonuzu giriniz : "))
 
-indeks = (kilo /(boy * boy))
+# indeks = (kilo /(boy * boy))
 
-zayif = (0 < indeks) and (indeks <= 18)
-normal = (18 < indeks) and (indeks <= 25)
-kilolu = (25 < indeks) and (indeks <= 30)
-obez = (30 < indeks) and (indeks <= 35)
+# zayif = (0 < indeks) and (indeks <= 18)
+# normal = (18 < indeks) and (indeks <= 25)
+# kilolu = (25 < indeks) and (indeks <= 30)
+# obez = (30 < indeks) and (indeks <= 35)
 
-print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {zayif}")
-print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {normal}")
-print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {kilolu}")
-print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {obez}")
+# print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {zayif}")
+# print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {normal}")
+# print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {kilolu}")
+# print(f"Vücut kitle indeksiniz {indeks}, kilo değerlendirmeniz {obez}")
+
+
